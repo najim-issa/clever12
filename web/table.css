@@ -1,0 +1,24 @@
+/*this is for table css
+content 
+padding space between content and margin
+*/
+
+table {
+
+border: 1px solid black; 
+border-colapse: collapse;
+}
+
+
+td{
+
+border: 1px solid black; 
+padding: 2px;
+padding-top: 20px;
+}
+
+th{
+
+border: 1px solid black;
+padding: 20px;
+}

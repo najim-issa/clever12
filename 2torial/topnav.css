@@ -38,3 +38,37 @@
     	text-align: start;
     	/*justify-content: flex-end;*/
     }
+
+    h1,h3{
+    	text-align: center;
+    	text-transform: uppercase;
+    	color: #4caf50;
+    }
+
+    p{
+    	text-align: justify;
+    	text-indent:50px;
+    	letter-spacing: 3px;
+    }
+
+
+    nav{
+	background-color: gray;
+	overflow: hidden;
+	text-transform: uppercase;
+	text-align: center;
+}
+ nav a {
+ 	float: left;
+ 	color: #f2f2f2;
+ 	text-align: center;
+ 	padding: 14px 16px;
+ 	text-decoration: none;
+ }
+ nav a:hover {
+ 	background-color: #ddd;
+ 	color: black;
+}
+ 	.M{
+      float: left;
+ 	}
