@@ -1,0 +1,40 @@
+
+.topnav{
+	background: gray;
+	overflow: hidden;
+}
+
+/*style the link inside the navigation bar*/
+.topnav a {
+	float: right;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.najim{
+	float: right;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 20px 18px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+ html{
+        background: url('p.jpg') no-repeat center center fixed;
+        background-size: cover;
+    }
+
+       .H4{
+        background-color: white;
+        padding-bottom: 20px;
+    }
+
+    .b{
+    
+    	/*float: left;*/
+    	text-align: start;
+    	/*justify-content: flex-end;*/
+    }
